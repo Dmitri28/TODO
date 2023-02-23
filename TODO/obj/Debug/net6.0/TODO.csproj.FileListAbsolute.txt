@@ -1,0 +1,68 @@
+C:\Users\hunte\source\repos\TODO\TODO\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hunte\source\repos\TODO\TODO\bin\Debug\net6.0\appsettings.json
+C:\Users\hunte\source\repos\TODO\TODO\bin\Debug\net6.0\TODO.staticwebassets.runtime.json
+C:\Users\hunte\source\repos\TODO\TODO\bin\Debug\net6.0\TODO.exe
+C:\Users\hunte\source\repos\TODO\TODO\bin\Debug\net6.0\TODO.deps.json
+C:\Users\hunte\source\repos\TODO\TODO\bin\Debug\net6.0\TODO.runtimeconfig.json
+C:\Users\hunte\source\repos\TODO\TODO\bin\Debug\net6.0\TODO.dll
+C:\Users\hunte\source\repos\TODO\TODO\bin\Debug\net6.0\TODO.pdb
+C:\Users\hunte\source\repos\TODO\TODO\obj\Debug\net6.0\TODO.csproj.AssemblyReference.cache
+C:\Users\hunte\source\repos\TODO\TODO\obj\Debug\net6.0\TODO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hunte\source\repos\TODO\TODO\obj\Debug\net6.0\TODO.AssemblyInfoInputs.cache
+C:\Users\hunte\source\repos\TODO\TODO\obj\Debug\net6.0\TODO.AssemblyInfo.cs
+C:\Users\hunte\source\repos\TODO\TODO\obj\Debug\net6.0\TODO.csproj.CoreCompileInputs.cache
+C:\Users\hunte\source\repos\TODO\TODO\obj\Debug\net6.0\TODO.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hunte\source\repos\TODO\TODO\obj\Debug\net6.0\TODO.RazorAssemblyInfo.cache
+C:\Users\hunte\source\repos\TODO\TODO\obj\Debug\net6.0\TODO.RazorAssemblyInfo.cs
+C:\Users\hunte\source\repos\TODO\TODO\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hunte\source\repos\TODO\TODO\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hunte\source\repos\TODO\TODO\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hunte\source\repos\TODO\TODO\obj\Debug\net6.0\scopedcss\bundle\TODO.styles.css
+C:\Users\hunte\source\repos\TODO\TODO\obj\Debug\net6.0\scopedcss\projectbundle\TODO.bundle.scp.css
+C:\Users\hunte\source\repos\TODO\TODO\obj\Debug\net6.0\TODO.dll
+C:\Users\hunte\source\repos\TODO\TODO\obj\Debug\net6.0\refint\TODO.dll
+C:\Users\hunte\source\repos\TODO\TODO\obj\Debug\net6.0\TODO.pdb
+C:\Users\hunte\source\repos\TODO\TODO\obj\Debug\net6.0\TODO.genruntimeconfig.cache
+C:\Users\hunte\source\repos\TODO\TODO\obj\Debug\net6.0\ref\TODO.dll
+D:\проект на c#\TODO\TODO\bin\Debug\net6.0\appsettings.Development.json
+D:\проект на c#\TODO\TODO\bin\Debug\net6.0\appsettings.json
+D:\проект на c#\TODO\TODO\bin\Debug\net6.0\TODO.staticwebassets.runtime.json
+D:\проект на c#\TODO\TODO\bin\Debug\net6.0\TODO.exe
+D:\проект на c#\TODO\TODO\bin\Debug\net6.0\TODO.deps.json
+D:\проект на c#\TODO\TODO\bin\Debug\net6.0\TODO.runtimeconfig.json
+D:\проект на c#\TODO\TODO\bin\Debug\net6.0\TODO.dll
+D:\проект на c#\TODO\TODO\bin\Debug\net6.0\TODO.pdb
+D:\проект на c#\TODO\TODO\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\проект на c#\TODO\TODO\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\проект на c#\TODO\TODO\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\проект на c#\TODO\TODO\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\проект на c#\TODO\TODO\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\проект на c#\TODO\TODO\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\проект на c#\TODO\TODO\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\проект на c#\TODO\TODO\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\проект на c#\TODO\TODO\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\проект на c#\TODO\TODO\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\проект на c#\TODO\TODO\obj\Debug\net6.0\TODO.csproj.AssemblyReference.cache
+D:\проект на c#\TODO\TODO\obj\Debug\net6.0\TODO.GeneratedMSBuildEditorConfig.editorconfig
+D:\проект на c#\TODO\TODO\obj\Debug\net6.0\TODO.AssemblyInfoInputs.cache
+D:\проект на c#\TODO\TODO\obj\Debug\net6.0\TODO.AssemblyInfo.cs
+D:\проект на c#\TODO\TODO\obj\Debug\net6.0\TODO.csproj.CoreCompileInputs.cache
+D:\проект на c#\TODO\TODO\obj\Debug\net6.0\TODO.MvcApplicationPartsAssemblyInfo.cache
+D:\проект на c#\TODO\TODO\obj\Debug\net6.0\TODO.RazorAssemblyInfo.cache
+D:\проект на c#\TODO\TODO\obj\Debug\net6.0\TODO.RazorAssemblyInfo.cs
+D:\проект на c#\TODO\TODO\obj\Debug\net6.0\staticwebassets\msbuild.TODO.Microsoft.AspNetCore.StaticWebAssets.props
+D:\проект на c#\TODO\TODO\obj\Debug\net6.0\staticwebassets\msbuild.build.TODO.props
+D:\проект на c#\TODO\TODO\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TODO.props
+D:\проект на c#\TODO\TODO\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TODO.props
+D:\проект на c#\TODO\TODO\obj\Debug\net6.0\staticwebassets.pack.json
+D:\проект на c#\TODO\TODO\obj\Debug\net6.0\staticwebassets.build.json
+D:\проект на c#\TODO\TODO\obj\Debug\net6.0\staticwebassets.development.json
+D:\проект на c#\TODO\TODO\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\проект на c#\TODO\TODO\obj\Debug\net6.0\scopedcss\bundle\TODO.styles.css
+D:\проект на c#\TODO\TODO\obj\Debug\net6.0\scopedcss\projectbundle\TODO.bundle.scp.css
+D:\проект на c#\TODO\TODO\obj\Debug\net6.0\TODO.csproj.CopyComplete
+D:\проект на c#\TODO\TODO\obj\Debug\net6.0\TODO.dll
+D:\проект на c#\TODO\TODO\obj\Debug\net6.0\refint\TODO.dll
+D:\проект на c#\TODO\TODO\obj\Debug\net6.0\TODO.pdb
+D:\проект на c#\TODO\TODO\obj\Debug\net6.0\TODO.genruntimeconfig.cache
+D:\проект на c#\TODO\TODO\obj\Debug\net6.0\ref\TODO.dll

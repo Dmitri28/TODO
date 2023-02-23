@@ -1,0 +1,14 @@
+﻿@page
+@model TODO.Pages.ExampleModel
+@{
+	ViewData["Title"] = "Example";
+}
+
+<form method="post">
+	<input type="text" name="name" />
+	<input type="number" name="age" />
+	<input type="submit" value="Submit" />
+</form>
+
+<h1>Name: @Model.Person.Name</h1>
+<h1>Age: @Model.Person.Age</h1>
